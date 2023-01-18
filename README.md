@@ -15,7 +15,7 @@ You wish to add or change something? Please send me an [email](mailto:mvarga1989
 | Intel     | Falcon 8+, Falcon 8+ RTK         |
 | Spark     | -                           |
 | Mavic     | Pro, 2 Pro, 2 Zoom, Mini, Air, Air 2, Pro Platinum, 2 Enterprise, 2 Enterprise Dual |
-| Matrice   | 600,, 600 Pro, 200, 200V2, 210, 210RTK, 300, 100, Matrice 300 RTK    |
+| Matrice   | 600, 600 Pro, 200, 200V2, 210, 210RTK, 300, 100, Matrice 300 RTK    |
 | Parrot    | Quadcopter, Disco-Pro AG, ANAFI, Bluegrass Fields|
 | PowerVision | PowerEgg, PowerEye |
 | Ryze Tech | Tello, Tello EDU |
