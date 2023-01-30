@@ -4,19 +4,20 @@ You wish to add or change something? Please send me an [email](mailto:mvarga1989
 
 | Brand     | Model                      |
 |-----------|----------------------------|
-| 3DR Solo  | -                           |
+| 3DR | Solo , IRIS                       |
 | Agras     | -                           |
+| Alabris     | SenseFly                           |
+| Altus   | LRX |
 | Atlas Pro | -                           |
 | Autel Robotics  | EVO 2, EVO II Pro, EVO II Dual, EVO II Zoom |
-| DJI  | Phantom 4, Phantom 4 Pro, Phantom 4 Advanced, Phantom 3, Phantom P4 Multispectral |
+| DJI Matrice | Phantom 4, Phantom 4 Pro, Phantom 4 Advanced, Phantom 3, Phantom P4 Multispectral, 600, 600 Pro, 200, 200V2, 210, 210RTK, 300, 100, Matrice 300 RTK   |
 | FreeFly   | Alta 8 Pro, Alta X           |
 | GoPro     | Karma(discontinued)            |
 | Inspire   | Inspire 1, Inspire 2, Inspire 2 Pro, Inspire 2 Raw, Inspire 2 Premium Combo        |
 | Intel     | Falcon 8+, Falcon 8+ RTK         |
 | Spark     | -                           |
 | Mavic     | Pro, 2 Pro, 2 Zoom, Mini, Air, Air 2, Pro Platinum, 2 Enterprise, 2 Enterprise Dual |
-| Matrice   | 600, 600 Pro, 200, 200V2, 210, 210RTK, 300, 100, Matrice 300 RTK    |
-| Parrot    | Quadcopter, Disco-Pro AG, ANAFI, Bluegrass Fields|
+| Parrot    | Bebop 2, Quadcopter, Disco-Pro AG, ANAFI, Bluegrass Fields|
 | PowerVision | PowerEgg, PowerEye |
 | Ryze Tech | Tello, Tello EDU |
 | Yuneec     | Tornado H920,  Typhoon H3, Typhoon, Mantis, H520, Mantis Q |
